@@ -1,0 +1,70 @@
+
+.DetailCard {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    color: #333;
+  }
+
+  .DetailCard h2, 
+  .DetailCard h3 {
+    color: #0077cc;
+  }
+  
+  .DetailCard p {
+    line-height: 1.6;
+  }
+  
+  .comment-section {
+    background-image: linear-gradient(to bottom right, #f6a97d, #745454, #84563b);
+    padding: 20px;
+    border-radius: 20px;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    width: 500px;
+    border: #333;
+    border-width: 20px;
+    margin-top: 20px;  
+  }
+  
+  .comment-container {
+    padding: 10px;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    background-color:#745454;
+    border: #333;
+    
+    width: 50%;
+    box-shadow: 1px 1px 3px rgba(0,0,0,0.1);
+    border-radius: 4px;
+  }
+  
+  form button {
+    padding: 8px;
+    border-radius: 4px;
+    border: 1px solid #ccc;  
+  }
+  
+  form input {
+    padding: 8px;
+    width: 400px;
+    height: 30px;
+    margin-top: 25px;
+    margin-bottom: 10px;
+    border-radius: 4px;
+    border: 1px solid #ccc;  
+  }
+  
+  form button {
+    background-color: burlywood;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  form button:hover {
+    background-color: rgb(224, 134, 85);
+  }
